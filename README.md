@@ -1,10 +1,6 @@
+## Olá Mundo!!! Sou o Jhonatan Santos fututo desenvolvedor FullStack  ![](https://tenor.com/view/iota-soon-saiyan-dbz-kutkraft-gif-22710902)
 
-## Olá Mundo!!! Sou o Jhonatan Santos fututo desenvolvedor FullStack  ![](https://tenor.com/view/goku-e-vegeta-vegeta-goku-final-kamehameha-kamehameha-gif-23143907)
 ### Bem vindo ao meu perfil do GitHub :wave:
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 
  ## :books:Estou Aprendendo
  <div> 
